@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LDAM_U3_Practica2_High_Mendoza</string>
+    <array name="clavesBusqueda">
+        <item>Nombre</item>
+        <item>Producto</item>
+        <item>Domicilio</item>
+        <item>Precio</item>
+    </array>
+</resources>

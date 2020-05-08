@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main3Activity"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <EditText
+        android:id="@+id/txtBuscar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Busqueda por:"
+        android:textColor="#4A4949"
+        android:textSize="18sp" />
+
+    <Spinner
+        android:id="@+id/cmbBusqueda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/clavesBusqueda" />
+
+    <Button
+        android:id="@+id/btnBuscar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Buscar" />
+
+    <Button
+        android:id="@+id/btnCerrar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cerrar" />
+
+    <TextView
+        android:id="@+id/txtConsulta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Consulta"
+        android:textColor="#000000"
+        android:textSize="24sp" />
+</LinearLayout>

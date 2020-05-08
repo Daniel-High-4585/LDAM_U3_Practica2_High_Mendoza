@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "819398863725",
+    "firebase_url": "https://tecnologico-wredwn.firebaseio.com",
+    "project_id": "tecnologico-wredwn",
+    "storage_bucket": "tecnologico-wredwn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819398863725:android:b7d30d273a49f876ccc864",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u3_ejercicio8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819398863725-bq4tth20jbqgpjdh778i5pbnfli1mi63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6cZ1xCusF7bDHw6yLoDuGtFuSVc_9u0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819398863725-bq4tth20jbqgpjdh778i5pbnfli1mi63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819398863725:android:7ea9d566764d2b7cccc864",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ldam_u3_practica2_high_mendoza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819398863725-bq4tth20jbqgpjdh778i5pbnfli1mi63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6cZ1xCusF7bDHw6yLoDuGtFuSVc_9u0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819398863725-bq4tth20jbqgpjdh778i5pbnfli1mi63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

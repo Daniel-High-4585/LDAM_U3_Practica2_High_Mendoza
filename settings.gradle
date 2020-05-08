@@ -1,0 +1,2 @@
+rootProject.name='LDAM_U3_Practica2_High_Mendoza'
+include ':app'
